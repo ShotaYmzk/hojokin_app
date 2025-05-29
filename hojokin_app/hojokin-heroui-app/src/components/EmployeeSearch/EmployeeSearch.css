@@ -1,0 +1,10 @@
+/* src/components/EmployeeSearch/EmployeeSearch.css */
+
+/* 
+  Tailwind CSSでカバーしきれない、
+  または特定のコンポーネントにスコープを限定したいカスタムスタイルがあればここに記述します。
+  例:
+  .custom-employee-table th {
+    background-color: #E0E7FF; // Tailwindの bg-indigo-100 に近い色
+  }
+*/

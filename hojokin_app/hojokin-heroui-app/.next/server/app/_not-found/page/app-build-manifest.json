@@ -1,0 +1,24 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/[root-of-the-server]__e2ab1137._.css",
+      "static/chunks/node_modules_@heroui_dom-animation_dist_index_mjs_dd48088b._.js",
+      "static/chunks/node_modules_@react-aria_d9d7c0d1._.js",
+      "static/chunks/node_modules_@react-aria_c2859098._.js",
+      "static/chunks/node_modules_next_147daa9e._.js",
+      "static/chunks/node_modules_framer-motion_dist_es_01cdcd57._.js",
+      "static/chunks/node_modules_b1cc22ea._.js",
+      "static/chunks/_9669d34b._.js",
+      "static/chunks/app_layout_tsx_ea9287a8._.js",
+      "static/chunks/app_error_tsx_1c4448c8._.js",
+      "static/chunks/app_error_tsx_caeef2a0._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_c20f642f._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/ed0b0_@swc_helpers_cjs_d9e50ee1._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_b581757f._.js"
+    ]
+  }
+}
